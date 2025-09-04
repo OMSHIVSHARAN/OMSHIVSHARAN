@@ -31,7 +31,7 @@
 ---
 
 ## ⚡ Fun Quote  
-> “☕ Powered by misal pav & Java, debugging life one commit at a time 💻✨”
+> “☕Debugging life one commit at a time 💻✨”
 
 ---
 
