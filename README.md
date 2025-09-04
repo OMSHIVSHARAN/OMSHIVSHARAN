@@ -15,10 +15,10 @@
 ---
 
 ## 📂 Featured Projects  
-🌟 [**Crypto Racket**](https://github.com/your-crypto-racket-repo)  
+🌟 [**Crypto Racket**](https://github.com/OMSHIVSHARAN/CryptoRacket)  
 *AI-driven crypto prediction web app using LSTM & trend analysis.*  
 
-🛒 [**Ecom App**](https://github.com/your-ecom-repo)  
+🛒 [**Ecom App**](https://github.com/OMSHIVSHARAN/ecom_internship)
 *Django-based e-commerce platform with Razorpay integration & OTP verification.*  
 
 
