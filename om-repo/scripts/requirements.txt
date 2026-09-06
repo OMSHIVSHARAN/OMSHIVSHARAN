@@ -1,0 +1,12 @@
+# fetch_contributions.py
+requests==2.33.1
+beautifulsoup4==4.14.3
+
+# make_ascii_svg.py / make_wordmark_svg.py / render_heatmap_svg.py
+Pillow==12.1.1
+numpy==2.4.4
+
+# prep_photo.py (background removal + local contrast)
+opencv-python-headless==4.13.0.92
+rembg==2.0.83
+onnxruntime==1.24.4
